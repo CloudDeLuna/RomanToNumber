@@ -7,7 +7,7 @@ public class TestRomanComputer {
 
 	RomanComputer computer = new RomanComputer();
 	@Test
-	public void test() {
+	public void testXI() {
 		assertEquals("XI", computer.compute("IX + II"));
 	}
 

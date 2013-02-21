@@ -27,7 +27,7 @@ public class NumberToRoman {
 		}
 		while ( z >= 100)
 		{
-			Res += "100";
+			Res += "C";
 			z -= 100;
 		}
 		while ( z >= 90)
